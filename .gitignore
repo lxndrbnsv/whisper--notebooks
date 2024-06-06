@@ -1,0 +1,10 @@
+venv/
+calls/
+*.zip
+__pycache__/
+*.json
+*.srt
+*.vtt
+*.tsv
+*.txt
+*.deb
